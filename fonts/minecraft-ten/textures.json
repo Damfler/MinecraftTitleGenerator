@@ -174,7 +174,17 @@
       }
     },
     "pixel": {
-      "author": "MrBrose"
+      "author": "MrBrose",
+      "variants": {
+        "default": {
+          "author": "MrBrose"
+        },
+        "dark": {
+          "name": "Dark Pixel",
+          "author": "Damlfer"
+        }
+      }
+
     },
     "ice": {
       "author": "Feby Kah & Ewan Howell"
